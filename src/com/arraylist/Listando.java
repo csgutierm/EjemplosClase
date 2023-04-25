@@ -19,7 +19,6 @@ public class Listando {
 		
 		List<String> vowelsList = Arrays.asList(vowels);
 		
-		List<Integer> numeros = Arrays.asList();
 		
 		List<Integer> lista = new ArrayList<Integer>();
 		lista.add(123);
