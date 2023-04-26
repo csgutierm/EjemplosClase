@@ -3,7 +3,6 @@ package com.arraylist;
 public class Listas2daParte {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		
 		int matrizEjemplo[][] = { { 1, 2, 3, 444, 99 }, { 4, 12 }, { 33 }, { 7, 8, 7, 44 } };
 

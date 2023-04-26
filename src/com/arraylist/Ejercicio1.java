@@ -16,7 +16,6 @@ import java.util.stream.Collectors;
 public class Ejercicio1 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		List<Integer> numeros = Arrays.asList(1,9,2,10,2,4,7,4,7,1,4);
 		
 		//Utilizando reduce, sumar todos los valores del array

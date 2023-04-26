@@ -16,7 +16,6 @@ import java.util.stream.Collectors;
 public class Ejercicio2 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		List<String> nombres =
 				Arrays.asList("Anastasia","Beatriz","Clara","Carla","Marianela","Paula","Pia");
 		

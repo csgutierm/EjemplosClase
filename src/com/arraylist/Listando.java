@@ -10,8 +10,6 @@ import java.util.stream.Stream;
 public class Listando {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
 
 		String[] vowels = {"a","e","i","o","u"};
 		String[] numbers = {"1","2","3","4","5"};
