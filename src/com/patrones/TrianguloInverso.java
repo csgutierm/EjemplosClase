@@ -4,8 +4,8 @@ import java.util.Scanner;
 
 /*
  * Ejercicio propuesto
-Realiza el patr�n para medio
-tri�ngulo inverso
+Realiza el patrón para medio
+triángulo inverso
 jjjjj
 *****i
 **** i
@@ -17,7 +17,6 @@ jjjjj
 public class TrianguloInverso {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
 		Scanner sc = new Scanner(System.in);
 		System.out.printf("Ingresa un numero ");
@@ -34,11 +33,10 @@ public class TrianguloInverso {
 
 		}
 
-//		// TODO Auto-generated method stub
 //		for (int i = 5; i >= 1; i--)
 //	    {
 //	 
-//	        // impresi�n '*'
+//	        // impresión '*'
 //	        for (int k = 0; k < i; k++) {
 //	        	System.out.print("*");
 //	        }
